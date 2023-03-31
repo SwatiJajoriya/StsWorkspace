@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;mypackage.HealthCare&apos; to &apos;Patient&apos;&#x0D;&#x0A;- Original project: &apos;JavaPractice&apos;&#x0D;&#x0A;- Original element: &apos;mypackage.HealthCare&apos;&#x0D;&#x0A;- Renamed element: &apos;mypackage.Patient&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HealthCare&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;mypackage{HealthCare.java[HealthCare" matchStrategy="1" name="Patient" qualified="false" references="true" similarDeclarations="false" stamp="1663936513686" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.simplilearn.string.StringBuffer&apos; to &apos;StringBufferDemo&apos;&#x0D;&#x0A;- Original project: &apos;Session 3&apos;&#x0D;&#x0A;- Original element: &apos;com.simplilearn.string.StringBuffer&apos;&#x0D;&#x0A;- Renamed element: &apos;com.simplilearn.string.StringBufferDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StringBuffer&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.simplilearn.string{StringBuffer.java[StringBuffer" matchStrategy="1" name="StringBufferDemo" qualified="false" references="true" similarDeclarations="false" stamp="1662190005423" textual="false" version="1.0"/>
+</session>
